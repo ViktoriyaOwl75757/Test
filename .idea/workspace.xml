@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d3ba99ea-e888-4972-aa3b-75f3990f7aa8" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -127,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582492055056</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Задание 6">
+      <created>1582495161978</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1582495161978</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -141,10 +147,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1581964790249" />
-    <state x="424" y="7" key="CommitChangelistDialog2" timestamp="1582492053441">
+    <state x="424" y="7" key="CommitChangelistDialog2" timestamp="1582495160380">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="424" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1582492053441" />
+    <state x="424" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1582495160380" />
     <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1582478149246">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -169,10 +175,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="671" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582495140354" />
-    <state x="647" y="137" key="RollbackChangesDialog" timestamp="1582488190534">
+    <state x="647" y="137" key="RollbackChangesDialog" timestamp="1582495188066">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="647" y="137" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1582488190534" />
+    <state x="647" y="137" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1582495188066" />
     <state x="277" y="55" key="SettingsEditor" timestamp="1582478418920">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
