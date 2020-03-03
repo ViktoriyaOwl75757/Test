@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3ba99ea-e888-4972-aa3b-75f3990f7aa8" name="Default Changelist" comment="Задание 8">
-      <change afterPath="$PROJECT_DIR$/src/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Example1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Gan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +37,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.Array">
+  <component name="RunManager" selected="Application.Enter">
     <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array" />
       <module name="Test" />
@@ -43,29 +45,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Gan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Gan" />
+    <configuration name="CDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CDemo" />
       <module name="Test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task7" />
+    <configuration name="Enter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Enter" />
       <module name="Test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task8" />
+    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example1" />
       <module name="Test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task9" />
+    <configuration name="Lern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lern" />
       <module name="Test" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Enter" />
+        <item itemvalue="Application.CDemo" />
+        <item itemvalue="Application.Example1" />
+        <item itemvalue="Application.Lern" />
         <item itemvalue="Application.Array" />
-        <item itemvalue="Application.Task9" />
-        <item itemvalue="Application.Task8" />
-        <item itemvalue="Application.Gan" />
-        <item itemvalue="Application.Task7" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582538881346</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Задание 9">
+      <created>1582557152972</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1582557152972</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -178,7 +187,8 @@
     <MESSAGE value="Задание 6" />
     <MESSAGE value="Задание 7" />
     <MESSAGE value="Задание 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание 8" />
+    <MESSAGE value="Задание 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание 9" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="71" key="#Project_Structure" timestamp="1581964790249">
@@ -189,10 +199,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="566" y="300" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1582538862941" />
-    <state x="424" y="7" key="CommitChangelistDialog2" timestamp="1582538880038">
+    <state x="424" y="7" key="CommitChangelistDialog2" timestamp="1582557151188">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="424" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1582538880038" />
+    <state x="424" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1582557151188" />
     <state x="168" y="123" width="1200" height="584" key="DiffContextDialog" timestamp="1582538717445">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -205,22 +215,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="639" y="306" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1582486208271" />
-    <state width="671" height="195" key="GridCell.Tab.0.bottom" timestamp="1582557111767">
+    <state width="671" height="195" key="GridCell.Tab.0.bottom" timestamp="1583252751888">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="671" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582557111767" />
-    <state width="671" height="195" key="GridCell.Tab.0.center" timestamp="1582557111767">
+    <state width="671" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583252751888" />
+    <state width="671" height="195" key="GridCell.Tab.0.center" timestamp="1583252751888">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="671" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582557111767" />
-    <state width="671" height="195" key="GridCell.Tab.0.left" timestamp="1582557111766">
+    <state width="671" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583252751888" />
+    <state width="671" height="195" key="GridCell.Tab.0.left" timestamp="1583252751887">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="671" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582557111766" />
-    <state width="671" height="195" key="GridCell.Tab.0.right" timestamp="1582557111767">
+    <state width="671" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583252751887" />
+    <state width="671" height="195" key="GridCell.Tab.0.right" timestamp="1583252751888">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="671" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582557111767" />
+    <state width="671" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583252751888" />
     <state width="671" height="242" key="GridCell.Tab.1.bottom" timestamp="1582538259019">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -249,13 +259,13 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="618" y="331" key="VCS.ChangelistChooser/0.0.1536.824@0.0.1536.824" timestamp="1582538856684" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1582538890900">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1582557163452">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1582538890900" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1582477490755">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1582557163452" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1583251714220">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582477490755" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583251714220" />
   </component>
 </project>
